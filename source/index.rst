@@ -7,7 +7,7 @@
 ======================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
 
    S每周/index
