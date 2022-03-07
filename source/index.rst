@@ -15,9 +15,4 @@
    S知识/index
    S工具/index
    S公司/index
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
