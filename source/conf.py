@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SphinxDemo'
-copyright = '2021, xxpcb'
-author = 'xxpcb'
+project = '太阳书'
+copyright = '2021'
+author = 'szj'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
