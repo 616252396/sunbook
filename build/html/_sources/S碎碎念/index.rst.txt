@@ -4,4 +4,5 @@
 .. toctree::
    :maxdepth: 2
    
-   前半生/*.md
+   前半生/9前半生
+   前半生/demo
