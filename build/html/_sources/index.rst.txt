@@ -10,7 +10,6 @@
    :maxdepth: 4
    :caption: Contents:
 
-   S每周/index
    S碎碎念/index
    S投资/index
    S知识/index
