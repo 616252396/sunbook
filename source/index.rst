@@ -3,15 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SphinxDemo's documentation!
+太阳书
 ======================================
 
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
 
-   Cpp/index
-
+   S每周/index
+   S碎碎念/index
+   S投资/index
+   S知识/index
+   S工具/index
+   S公司/index
 Indices and tables
 ==================
 
