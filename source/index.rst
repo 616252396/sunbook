@@ -10,6 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
+   demo
    S碎碎念/index
    S投资/index
    S知识/index
